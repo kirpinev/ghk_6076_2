@@ -9,7 +9,7 @@ import { LS, LSKeys } from "./ls";
 import { appSt } from "./style.css";
 import { Gap } from "@alfalab/core-components/gap";
 
-const longRead = "alfabank://longread?endpoint=v1/adviser/longreads/67708";
+const longRead = "alfabank://longread?endpoint=v1/adviser/longreads/77414";
 
 const Redirect = () => {
   window.location.href = longRead;
